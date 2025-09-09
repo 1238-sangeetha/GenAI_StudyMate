@@ -1,0 +1,10 @@
+gradio
+torch
+transformers
+PyPDF2
+gtts
+python-pptx
+pytube
+opencv-python
+pillow
+easyocr
